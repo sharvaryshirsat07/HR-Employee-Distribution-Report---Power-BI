@@ -51,5 +51,5 @@ The following datasets were used:
 - **Termination Rates**: Some departments, like **Sales**, show higher turnover, indicating areas for focus.
 
 ## Conclusion
-<a href=''></a>
+<a href='https://github.com/sharvaryshirsat07/HR-Employee-Distribution-Report---Power-BI/blob/main/Power%20BI%20Dashboard.pdf'>Dashboard</a>
 This Power BI dashboard provides valuable insights into workforce demographics, helping HR teams make data-driven decisions. It highlights trends in gender, race, age, employee growth, and departmental dynamics, driving strategies for diversity, retention, and workforce planning.
